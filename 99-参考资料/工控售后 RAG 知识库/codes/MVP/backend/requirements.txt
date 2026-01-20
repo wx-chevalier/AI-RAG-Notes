@@ -1,0 +1,16 @@
+
+streamlit==1.41.0
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
+chromadb
+python-dotenv
+watchdog
+minio
+supabase
+pytest
+fastapi
+uvicorn
+pydantic

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "question": "如何使用“tcp-udp网络调试助手”配置IP和端口？",
+        "ground_truth_doc": "tcp-udp网络调试助手使用教程.docx",
+        "category": "数据采集/功能教程/常用工具使用"
+    },
+    {
+        "id": 2,
+        "question": "如何使用AccessPort监听串口数据？",
+        "ground_truth_doc": "AccessPort使用教程.docx",
+        "category": "数据采集/功能教程/常用工具使用"
+    },
+    {
+        "id": 3,
+        "question": "如何使用WinDbg查看并分析崩溃文件以定位问题？",
+        "ground_truth_doc": "Windbg使用教程.docx",
+        "category": "数据采集/功能教程/常用工具使用"
+    },
+    {
+        "id": 4,
+        "question": "Modbus Slave支持哪些Modbus功能码？",
+        "ground_truth_doc": "ModbusSlave使用教程.docx",
+        "category": "数据采集/功能教程/常用工具使用"
+    },
+    {
+        "id": 5,
+        "question": "如何使用Modbus Poll连接到Modbus设备？",
+        "ground_truth_doc": "modbus poll使用教程.docx",
+        "category": "数据采集/功能教程/常用工具使用"
+    },
+    {
+        "id": 6,
+        "question": "在ModScan32中如何配置数据采集点位，例如起始地址和采集长度？",
+        "ground_truth_doc": "modscan使用教程.docx",
+        "category": "数据采集/功能教程/常用工具使用"
+    },
+    {
+        "id": 7,
+        "question": "如何利用串口调试助手生成数据帧的校验位？",
+        "ground_truth_doc": "串口调试助手使用教程.docx",
+        "category": "数据采集/功能教程/常用工具使用"
+    },
+    {
+        "id": 8,
+        "question": "在Wireshark中如何筛选特定的IP和端口数据？",
+        "ground_truth_doc": "Wireshark使用教程.docx",
+        "category": "数据采集/功能教程/常用工具使用"
+    },
+    {
+        "id": 9,
+        "question": "如何删除组态王软件之前安装的驱动？",
+        "ground_truth_doc": "组态王驱动删除工具使用教程.docx",
+        "category": "数据采集/功能教程/常用工具使用"
+    },
+    {
+        "id": 10,
+        "question": "如果自动截崩溃补丁无法截取到异常崩溃，应该如何使用Windbg进行处理？",
+        "ground_truth_doc": "崩溃处理过程.docx",
+        "category": "数据采集/功能教程/其他"
+    },
+    {
+        "id": 11,
+        "question": "如何在MQTT.fx中配置连接并订阅主题？",
+        "ground_truth_doc": "MQTT驱动使用教程.docx",
+        "category": "数据采集/功能教程/驱动"
+    },
+    {
+        "id": 12,
+        "question": "如何配置HTTP Client驱动与设备进行HTTP协议通讯？",
+        "ground_truth_doc": "HTTP_Client驱动使用教程.docx",
+        "category": "数据采集/功能教程/驱动"
+    },
+    {
+        "id": 13,
+        "question": "OPC UA Client提供了哪些触发类型，它们之间有什么区别？",
+        "ground_truth_doc": "OPC UA Client触发类型选择.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/OPC UA"
+    },
+    {
+        "id": 14,
+        "question": "如何在KingIOServer3.8中为本机生成OPC UA证书？",
+        "ground_truth_doc": "OPC UA 证书安装.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/OPC UA"
+    },
+    {
+        "id": 15,
+        "question": "OPC UA Client支持哪些身份认证方式？",
+        "ground_truth_doc": "OPC UA Client身份认证配置.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/OPC UA"
+    },
+    {
+        "id": 16,
+        "question": "当安全策略选择为None时，安全模式应该如何选择？",
+        "ground_truth_doc": "OPC UA Client安全策略和安全模式.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/OPC UA"
+    },
+    {
+        "id": 17,
+        "question": "如何开启和配置OPC UA Server？",
+        "ground_truth_doc": "OPC UA Server配置.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/OPC UA"
+    },
+    {
+        "id": 18,
+        "question": "KingIOServer如何配置为OPC DA客户端进行数据采集？",
+        "ground_truth_doc": "OPCDA采集配置-订阅.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/OPC DA"
+    },
+    {
+        "id": 19,
+        "question": "如何避免复杂的DCOM配置来连接KingIOServer和OPC DA Server/Client？",
+        "ground_truth_doc": "OPCDA配置工具.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/OPC DA"
+    },
+    {
+        "id": 20,
+        "question": "在KingIOServer中，如何配置OPC DA采集的轮询模式？",
+        "ground_truth_doc": "OPCDA采集配置-轮询.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/OPC DA"
+    },
+    {
+        "id": 21,
+        "question": "如何在KingIOServer中配置OPC DA转发功能？",
+        "ground_truth_doc": "OPCDA转发配置.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/OPC DA"
+    },
+    {
+        "id": 22,
+        "question": "如何在IOServer中导出设备？",
+        "ground_truth_doc": "设备、变量的导入导出.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/其它"
+    },
+    {
+        "id": 23,
+        "question": "新建变量组时，变量组名称有什么命名规则和限制？",
+        "ground_truth_doc": "新建变量、变量组.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/其它"
+    },
+    {
+        "id": 24,
+        "question": "如何安装设备驱动？",
+        "ground_truth_doc": "驱动安装、卸载.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/其它"
+    },
+    {
+        "id": 25,
+        "question": "如何在IOServer中修改用户的密码？",
+        "ground_truth_doc": "安全设置.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/其它"
+    },
+    {
+        "id": 26,
+        "question": "新建设备时需要配置哪些属性，每个属性的作用是什么？",
+        "ground_truth_doc": "新建设备、设备组.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/其它"
+    },
+    {
+        "id": 27,
+        "question": "如何在IOServer中新建一个工程？",
+        "ground_truth_doc": "快速新建工程.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/其它"
+    },
+    {
+        "id": 28,
+        "question": "线性转换的计算公式是什么？其中各个变量代表什么含义？",
+        "ground_truth_doc": "线性属性.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/其它"
+    },
+    {
+        "id": 29,
+        "question": "如何配置KIO3.8的授权管理服务？",
+        "ground_truth_doc": "1分钟实现KIO3.8授权配置.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/授权"
+    },
+    {
+        "id": 30,
+        "question": "KIO3.7的授权是基于哪些参数进行的？",
+        "ground_truth_doc": "1分钟实现KIO3.7授权配置.docx",
+        "category": "数据采集/功能教程/KingIOServer(Windows)/授权"
+    }
+]
